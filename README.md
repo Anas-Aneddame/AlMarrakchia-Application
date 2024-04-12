@@ -1,4 +1,4 @@
-# new_app
+# Almarrakchia-app
 
 A new Flutter project.
 
